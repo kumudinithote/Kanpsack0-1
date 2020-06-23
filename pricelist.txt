@@ -1,0 +1,13 @@
+3 300
+JimRice1975 100
+RickyHenderson1983 150
+DerekJeter1996 150
+5 300
+HonusWagner1933 202
+DerekJeter1996 120
+JimRice1975 80
+Shantanu 100
+Kumudini 80
+2 300
+JimRice1975 100
+RickyHenderson1983 150

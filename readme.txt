@@ -1,0 +1,1 @@
+Program written in : CCommands to compile and run:Compile: gcc -o program1 program1.cRun: ./program1 "marketprice.txt" "pricelist.txt" "output.txt"

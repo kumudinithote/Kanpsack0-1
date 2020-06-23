@@ -1,0 +1,23 @@
+Number of cards in price list : 2
+Total purchase cards : 2 
+profit : 2750 
+Time taken : 0.000007 
+JimRice1975
+RickyHenderson1983
+-----------------------------------
+Number of cards in price list : 3
+Total purchase cards : 2 
+profit : 3200 
+Time taken : 0.000038 
+RickyHenderson1983
+DerekJeter1996
+-----------------------------------
+Number of cards in price list : 5
+Total purchase cards : 3 
+profit : 10200 
+Time taken : 0.000013 
+DerekJeter1996
+JimRice1975
+Shantanu
+Kumudini
+-----------------------------------
